@@ -48,5 +48,6 @@
   <modules>
     <module>config-client</module>
     <module>config-client-project</module>
+    <module>consul-test</module>
   </modules>
 </project>
